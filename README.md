@@ -40,7 +40,7 @@ jobportal/
 - 🔍 **Search & Filter** by title, location, type
 - 📊 **Admin Dashboard** (optional)
 - 📂 REST APIs + Swagger Docs
-- ✅ Fully Tested (Unit + Integration)
+- ✅ Fully Tested (JUnit + Mockito + IntegrationTesting)
 
 
 🌐 Technologies Used
