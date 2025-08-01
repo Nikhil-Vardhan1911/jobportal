@@ -48,7 +48,7 @@ jobportal/
 * Java (Core Java, Servlets)
 * Frameworks: Spring, SpringBoot,Spring MVC
 * JDBC (Java Database Connectivity)
-* Testing: Junit,Integration Testing
+* Testing: Junit,Integration Testing,Mockito
 * PostMan for Testing API 
 * MySQL(For DataBase)
 
