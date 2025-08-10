@@ -46,7 +46,7 @@ jobportal/
 🌐 Technologies Used
 
 * Java (Core Java, Servlets)
-* Frameworks: Spring, SpringBoot,Spring MVC
+* Frameworks: Spring, SpringBoot,Spring MVC,Spring Data Jpa
 * JDBC (Java Database Connectivity)
 * Testing: Junit,Integration Testing,Mockito
 * PostMan for Testing API 
