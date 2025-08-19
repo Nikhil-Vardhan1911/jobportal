@@ -38,7 +38,6 @@ jobportal/
 - 📄 **Resume Upload** & Profile Management
 - 💼 **Post & Apply for Jobs**
 - 🔍 **Search & Filter** by title, location, type
-- 📊 **Admin Dashboard** (optional)
 - 📂 REST APIs + Swagger Docs
 - ✅ Fully Tested (JUnit + Mockito + IntegrationTesting)
 
@@ -54,5 +53,4 @@ jobportal/
 
 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests to improve the project. Happy coding! 🎉
-
 
