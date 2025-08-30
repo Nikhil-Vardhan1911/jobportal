@@ -48,7 +48,7 @@ jobportal/
 * Frameworks: Spring, SpringBoot,Spring MVC,Spring Data Jpa
 * JDBC (Java Database Connectivity), Hibernate
 * Testing: Junit,Integration Testing, Mockito
-* PostMan for Testing API 
+* PostMan for Testing API's
 * MySQL(For DataBase)
 
 🤝 Contributing
