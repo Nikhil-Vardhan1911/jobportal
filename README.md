@@ -39,7 +39,7 @@ jobportal/
 - 💼 **Post & Apply for Jobs**
 - 🔍 **Search & Filter** by title, location, type
 - 📂 REST APIs + Swagger Docs
-- ✅ Fully Tested (JUnit + Mockito + IntegrationTesting)
+- ✅ Fully Tested JUnit + Mockito + IntegrationTesting
 
 
 🌐 Technologies Used
