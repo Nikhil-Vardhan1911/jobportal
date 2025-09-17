@@ -13,7 +13,7 @@ Follow these steps to set up and run the project on your local machine:
 
 📂 Project Structure
 
-* src/: Contains the Java source code files for the application.
+* src/: Contains the Java source code files for the application
 * database/: Includes SQL scripts for setting up the database schema (users, jobs, applications, etc.).
 * screenshots/: Screenshots of the application in action (user dashboard, job listings page, etc.).
 
@@ -33,7 +33,6 @@ jobportal/
 
 
 📦 Features
-
 - 👤 **User Roles**: Employer & Job Seeker
 - 📄 **Resume Upload** & Profile Management
 - 💼 **Post & Apply for Jobs**
